@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "fraze",
+    "slug": "fraze",
+    "scheme": "fraze",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "backgroundColor": "#f6f4ef"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.suraj.fraze"
+    },
+    "android": {
+      "package": "com.suraj.fraze"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-font",
+      "expo-web-browser"
+    ]
+  }
+}

@@ -1,0 +1,5 @@
+-- Optional: seed one crew for your account. Replace YOUR_USER_ID (from auth.users).
+-- insert into crews (id, name, subtitle, created_by) values ('11111111-1111-1111-1111-111111111111','The Chablis Crew','SOUTH OF FRANCE · JUL 2024','YOUR_USER_ID');
+-- insert into crew_members (crew_id, user_id, role) values ('11111111-1111-1111-1111-111111111111','YOUR_USER_ID','owner');
+-- insert into memories (crew_id, author_id, kind, text, said_by) values
+--   ('11111111-1111-1111-1111-111111111111','YOUR_USER_ID','quote','I''m not drunk, I''m wine-drunk. Those are completely different metabolic processes.','Marco');
